@@ -3,7 +3,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit5TestClass.java to edit this template
  */
 package studentgrade;
-
+//remove import statement for junit.framework.TestCase 
+// add the appropriate annotations for test method 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -18,6 +19,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
 /* JUnit 3.8.1 */
+//delete the constructor
 public class StudentgradeTest  {
     
    
